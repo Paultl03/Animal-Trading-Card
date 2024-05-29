@@ -1,0 +1,32 @@
+p{
+    
+    font-size: 18px;
+   
+}
+
+li{
+    list-style-type: none;
+    margin-left: 0%;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+.card{
+    box-shadow: 5px 10px #e2dede;
+    border-style: outset;
+    max-width: fit-content;
+    width: 300px;
+    margin: 2em;
+    padding: 1em;
+}
+
+.card.about{
+   margin: 0em;
+    padding: 1em 1em;
+    box-shadow: none;
+    position: relative;
+}
+
